@@ -32,11 +32,11 @@ Currently in making!
 </a>
 
 <a href="https://github.com/suvicigor/my-java-codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suvicigor&repo=my-java-codes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suvicigor&repo=my-java-codes&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242" />
 </a>
 
 
 <a href="https://github.com/suvicigor/suvicigor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suvicigor&repo=suvicigor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suvicigor&repo=suvicigor&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242 />
 </a>    
 
