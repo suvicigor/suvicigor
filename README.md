@@ -30,11 +30,11 @@ Currently in making!
 </a>
 
 <a href="https://github.com/suvicigor/suvicigor">
-  <img align="center" height="150px" width="360px" src="https://github-readme-stats.vercel.app/api?username=suvicigor&count_private=true&line_height=27&hide_border=true&include_all_commits=true&custom_title=My+GitHub+Stats&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242&layout=compact" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=suvicigor&count_private=true&line_height=27&hide_border=true&include_all_commits=true&custom_title=My+GitHub+Stats&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242&layout=compact" />
 </a>
 
 <a href="https://github.com/suvicigor/my-java-codes">
-  <img align="center" width="460px" src="https://github-readme-stats.vercel.app/api/pin/?username=suvicigor&repo=my-java-codes&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242" />
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=suvicigor&repo=my-java-codes&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242" />
 </a>
 
 
