@@ -9,6 +9,8 @@ Currently in making!
 ## ◾️ Technologies & Tools
 
 ## ◾️ GitHub stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<suvicigor>&theme=<THEME_NAME>" />
+
 [![suvicigors's github stats](https://github-readme-stats.vercel.app/api?username=suvicigor)](https://github.com/suvicigor/github-readme-stats)
 
 <!--
