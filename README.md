@@ -10,8 +10,8 @@ Currently in making!
 
 ## ◾️ GitHub stats
 <a href="https://github.com/suvicigor/suvicigor">
-  <img align="center" height="200px" style="font-size:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvicigor&hide=ruby,shell&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242" />
+  <img align="center" height="200px" style="font-size:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvicigor&hide=ruby,shell&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242" />
 </a>
 <a href="https://github.com/suvicigor/suvicigor">
-  <img align="center" height="200px" style="font-size:8px;" src="https://github-readme-stats.vercel.app/api?username=suvicigor&count_private=true&hide_border=true&include_all_commits=true&custom_title=My+GitHub+Stats&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242&layout=compact" />
+  <img align="center" height="200px" style="font-size:8px" src="https://github-readme-stats.vercel.app/api?username=suvicigor&count_private=true&hide_border=true&include_all_commits=true&custom_title=My+GitHub+Stats&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=45,211f1f,2b2a2a,454242&layout=compact" />
 </a>
