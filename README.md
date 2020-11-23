@@ -6,7 +6,7 @@ My name is Igor Suvić. I am currently a college student in Belgrade and I study
 ## ◾️ My website
 Currently in making!
 
-## ◾️ Languages and editors
+## ◾️ Languages and technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=2bbc8a)
@@ -18,7 +18,7 @@ Currently in making!
 ![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Brackets-informational?style=for-the-badge&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=for-the-badge&color=2bbc8a)
 
 ## ◾️ GitHub stats
 <a href="https://github.com/suvicigor/suvicigor">
