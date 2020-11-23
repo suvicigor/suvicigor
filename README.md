@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/suvicigor/<OWNER>/<OWNER>/https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png "Website")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/suvicigor/<OWNER>/<OWNER>/https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png "Website")](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
 
 
 
