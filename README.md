@@ -18,7 +18,7 @@ Currently in making!
 ![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Brackets-informational?style=for-the-badge&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&color=2bbc8a)
 
 ## ◾️ GitHub stats
 <a href="https://github.com/suvicigor/suvicigor">
