@@ -9,10 +9,10 @@ Currently in making!
 ## ◾️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&color=2bbc8a)
 
 ## ◾️ GitHub stats
 <a href="https://github.com/suvicigor/suvicigor">
