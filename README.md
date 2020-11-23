@@ -1,7 +1,3 @@
-### Hi there 👋
-[![Header](https://raw.githubusercontent.com/suvicigor/<OWNER>/<OWNER>/https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png "Website")](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
-
-
 
 <!--
 **suvicigor/suvicigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
