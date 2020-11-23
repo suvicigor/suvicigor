@@ -10,7 +10,7 @@ Currently in making!
 
 ## ◾️ GitHub stats
 
-![suvicigors's github stats](https://github-readme-stats.vercel.app/api?username=suvicigor&count_private=true&show_icons=true&icon_color=ffffff&bg_color=90,1c1c1c,2b2a2a,ede8e8)
+![suvicigors's github stats](https://github-readme-stats.vercel.app/api?username=suvicigor&count_private=true&show_icons=true&icon_color=ffffff&bg_color=45,1c1c1c,2b2a2a,454242)
 
 <!--
 **suvicigor/suvicigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
