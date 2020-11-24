@@ -7,6 +7,7 @@ My name is Igor Suvić and I'm 19 years old. I am currently a college student in
 ## ◾️ Achievements
 Will add them as I finish certain goals!
 ## ◾️ Social media
+Very busy right now, will add it soon!
 
 ## ◾️ My website
 Currently in making!
