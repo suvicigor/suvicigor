@@ -15,6 +15,7 @@ Currently in making!
 ## ◾️ Languages and technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=454242)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&color=454242)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&color=454242)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=454242)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&color=454242)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&color=454242)
